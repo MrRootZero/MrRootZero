@@ -6,9 +6,8 @@
 
 <!-- Start of About Me Section -->
 <div class="about-section">
-  <h2 align="left">About me:</h2>
+  <h2 align="left">💫 About me:</h2>
   <p align="left">
-    💫 About Me:<br /><br />
     🎓 Currently studying a BSc in IT with a focus on Computational Science and
     Informatics.<br /><br />
     💻 I work as a Software Engineer and consider myself a Full Stack Developer
