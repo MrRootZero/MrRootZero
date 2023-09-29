@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shabir Khan</h1>
+<h1 align="center">Hi there👋, I'm Shabir Khan</h1>
 <h3 align="center">Coding, Coffee, and Everything In Between</h3>
 
 <h3 align="left">Connect with me:</h3>
