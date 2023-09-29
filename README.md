@@ -10,8 +10,6 @@
   <p align="left">
     🎓 Currently studying a BSc in IT with a focus on Computational Science and
     Informatics.<br /><br />
-    💻 I work as a Software Engineer and consider myself a Full Stack Developer
-    :).<br /><br />
     🤝 I'm enthusiastic about joining projects that explore new technologies and
     involve building exciting applications that can benefit us all.<br /><br />
     🌱 My current learning journey includes delving into the fascinating realms
