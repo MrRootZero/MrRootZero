@@ -1,17 +1,24 @@
 <h1 align="center">Hi there👋, I'm Shabir Khan</h1>
-<h3 align="center">Building Code at the Keyboard, Lifting Weights at the Gym: Balancing Bits and Barbells</h3>
+<h3 align="center">Coding, Coffee, and Everything In Between</h3>
 
-
-   <!-- Start of About Me Section -->
-   <div class="about-section">
-    <h2 align="left">💫 About me:</h2>
-    <p align="left">
-        🎓 Currently studying a BSc in IT with a focus on Computational Science and Informatics.<br><br>
-        💻 I work as a Software Engineer and consider myself a Full Stack Developer :).<br><br>
-        🤝 I'm enthusiastic about joining projects that explore new technologies and involve building exciting applications that can benefit us all.<br><br>
-        🌱 My current learning journey includes delving into the fascinating realms of Cybersecurity and the ever-expanding field of Software Engineering 😋.<br><br>
-        ⚡ Fun fact: I'm passionate about hitting the gym 🏋️. Feel free to send me a message, and we can chat and connect about our shared interests in technology, coding, or fitness! 😄👋
-    </p>
+<!-- Start of About Me Section -->
+<div class="about-section">
+  <h2 align="left">About me:</h2>
+  <p align="left">
+    💫 About Me:<br /><br />
+    🎓 I hold a BSc in IT with a focus on Computer Science and Informatics.<br /><br />
+    📚 Currently, I'm pursuing a BScHons in Information Technology, specializing
+    in Computer Science, Information Security, and AI.<br /><br />
+    💻 I work as a Software Engineer and consider myself a Full Stack Developer
+    :).<br /><br />
+    🤝 I'm enthusiastic about joining projects that explore new technologies and
+    involve building exciting applications that can benefit us all.<br /><br />
+    🌱 My current learning journey includes delving into the fascinating realms
+    of Cybersecurity and the ever-expanding field of Software Engineering 😋.<br /><br />
+    ⚡ Fun fact: I'm a passionate F1 enthusiast 🏎. Feel free to send me a
+    message, and we can chat and connect about our shared interests in
+    technology, coding, or Formula 1! 😄👋
+  </p>
 </div>
 <!-- End of About Me Section -->
 
@@ -79,8 +86,15 @@
       height="40"
     />
   </a>
+  <a href="https://twitter.com/https://twitter.com/shabzo_28" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      alt="https://twitter.com/shabzo_28"
+      height="30"
+      width="40"
+  /></a>
 </p>
-
 <p>
   &nbsp;<img
     align="center"
