@@ -22,8 +22,8 @@
 </div>
 <!-- End of About Me Section -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
   <a
     href="https://linkedin.com/in/https://www.linkedin.com/in/shabbir-khan-27985720a/"
     target="blank"
