@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Shabir Khan</h1>
-<h3 align="center">Building Code at the Keyboard, Lifting Weights at the Gym: Balancing Bits and Barbells"</h3>
+<h3 align="center">Building Code at the Keyboard, Lifting Weights at the Gym: Balancing Bits and Barbells</h3>
 
 
    <!-- Start of About Me Section -->
