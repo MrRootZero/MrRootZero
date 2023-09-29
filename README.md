@@ -3,19 +3,19 @@
 
 
  <!-- Start of About Me Section -->
- <div class="about-section">
-    <h2 align="left">About me:</h2>
-    <p align="left">
-        💫 About Me:
-        🎓 I hold a BSc in IT with a focus on Computer Science and Informatics.
-        📚 Currently, I'm pursuing a BScHons in Information Technology, specializing in Computer Science, Information Security, and AI.
-        💻 I work as a Software Engineer and consider myself a Full Stack Developer :).
-        🤝 I'm enthusiastic about joining projects that explore new technologies and involve building exciting applications that can benefit us all.
-        🌱 My current learning journey includes delving into the fascinating realms of Cybersecurity and the ever-expanding field of Software Engineering 😋.
-        ⚡ Fun fact: I'm a passionate F1 enthusiast 🏎. Feel free to send me a message, and we can chat and connect about our shared interests in technology, coding, or Formula 1! 😄👋
-    </p>
-</div>
-<!-- End of About Me Section -->
+    <div class="about-section">
+        <h2 align="left">About me:</h2>
+        <p align="left">
+            💫 About Me:<br>
+            🎓 I hold a BSc in IT with a focus on Computer Science and Informatics.<br>
+            📚 Currently, I'm pursuing a BScHons in Information Technology, specializing in Computer Science, Information Security, and AI.<br>
+            💻 I work as a Software Engineer and consider myself a Full Stack Developer :).<br>
+            🤝 I'm enthusiastic about joining projects that explore new technologies and involve building exciting applications that can benefit us all.<br>
+            🌱 My current learning journey includes delving into the fascinating realms of Cybersecurity and the ever-expanding field of Software Engineering 😋.<br>
+            ⚡ Fun fact: I'm a passionate F1 enthusiast 🏎. Feel free to send me a message, and we can chat and connect about our shared interests in technology, coding, or Formula 1! 😄👋
+        </p>
+    </div>
+    <!-- End of About Me Section -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
