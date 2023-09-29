@@ -10,7 +10,7 @@
         💻 I work as a Software Engineer and consider myself a Full Stack Developer :).<br><br>
         🤝 I'm enthusiastic about joining projects that explore new technologies and involve building exciting applications that can benefit us all.<br><br>
         🌱 My current learning journey includes delving into the fascinating realms of Cybersecurity and the ever-expanding field of Software Engineering 😋.<br><br>
-        ⚡ Fun fact: I'm a passionate F1 enthusiast 🏎. Feel free to send me a message, and we can chat and connect about our shared interests in technology, coding, or Formula 1! 😄👋
+        ⚡ Fun fact: I'm passionate about hitting the gym 🏋️. Feel free to send me a message, and we can chat and connect about our shared interests in technology, coding, or fitness! 😄👋
     </p>
 </div>
 <!-- End of About Me Section -->
