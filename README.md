@@ -1,4 +1,6 @@
 <!--<h1 align="center">Hi there👋, I'm Shabir Khan</h1> -->
+
+
 <div align=center>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3999&pause=500&color=2B96C5&background=00609C00&center=true&vCenter=true&width=435&lines=Hi+there%F0%9F%91%8B%2C+I'm+Shabir!+;Computer+Science+Student;Captivated+by+CyberSec+and+AI;Anime+and+Gym+Enthusiast" alt="Typing SVG" /></a>
 </div>
