@@ -103,19 +103,12 @@
     />
   </a>
 </p>
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=mrrootzero&show_icons=true&locale=en"
-    alt="mrrootzero"
-  />
-</p>
-
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=mrrootzero&show_icons=true&locale=en&layout=compact"
-    alt="mrrootzero"
-  />
+<!-- Github Statistics -->
+### ⚙️ &nbsp;GitHub Stats:
+<p align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=root-mrrobot&theme=algolia&hide_border=false&include_all_commits=false&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=root-mrrobot&theme=algolia&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
+    </br> 
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=root-mrrobot&theme=algolia&hide_border=false" />
 </p>
 
