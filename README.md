@@ -104,7 +104,7 @@
   </a>
 </p>
 <!-- Github Statistics -->
-### ⚙️ &nbsp;GitHub Stats:
+⚙️ &nbsp;GitHub Stats:
 <p align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrrootzero&theme=algolia&hide_border=false&include_all_commits=false&count_private=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrrootzero&theme=algolia&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
