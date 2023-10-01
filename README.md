@@ -112,7 +112,5 @@
 </p>
 
 
-<!-- Quote Generator -->
-<p align="center">
-        <img src="https://github-readme-quotes.herokuapp.com/quote?theme=prussian&animation=grow_out_in&layout=default&font=default" />
-</p>
+### ✍️
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
