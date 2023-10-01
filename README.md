@@ -111,3 +111,8 @@
     </br> 
 </p>
 
+
+<!-- Quote Generator -->
+<p align="center">
+        <img src="https://github-readme-quotes.herokuapp.com/quote?theme=prussian&animation=grow_out_in&layout=default&font=default" />
+</p>
