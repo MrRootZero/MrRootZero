@@ -12,22 +12,20 @@
   Barbells
 </h3>
 
+
 <!-- Start of About Me Section -->
-<div class="about-section">
-  <h2 align="left">💫 About me:</h2>
-  <p align="left">
-    🎓 Currently studying a BSc in IT with a focus on Computational Science and
-    Informatics.<br /><br />
-    🤝 I'm enthusiastic about joining projects that explore new technologies and
-    involve building exciting applications that can benefit us all.<br /><br />
-    🌱 My current learning journey includes delving into the fascinating realms
-    of Cybersecurity and the ever-expanding field of Software Engineering 😋.<br /><br />
-    ⚡ Fun fact: I'm passionate about fitness and you can often find me hitting
-    the gym, working on strength and staying healthy! 💪😄🏋️ Feel free to send
-    me a message, and we can chat and connect about our shared interests in
-    technology, coding, or fitness! 😄👋
-  </p>
-</div>
+# 💫About Me :
+
+📚 Currently studying a BSc in IT with a focus on Computational Science and Informatics.
+
+🤝 I'm enthusiastic about joining projects that explore new technologies and involve building exciting applications that can benefit us all.
+
+🌱 I’m currently learning JSP + Restful WS + Spring as well as the ever expanding field of Software Engineering 😋
+
+⚡ Fun fact: I'm passionate about fitness and you can often find me hitting the gym, working on strength and staying healthy! 💪😄🏋️ Feel free to send me a message, and we can chat and connect about our shared interests in technology, coding, or fitness! 😄👋
+
+
+<br/>
 <!-- End of About Me Section -->
 
 <h3 align="center">Connect with me:</h3>
@@ -103,14 +101,12 @@
     />
   </a>
 </p>
-<!-- Github Statistics -->
-⚙️ &nbsp;GitHub Stats:
-<p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrrootzero&theme=algolia&hide_border=false&include_all_commits=false&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrrootzero&theme=algolia&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
-    </br> 
-</p>
 
+<!-- Github Statistics -->
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=mrrootzero&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mrrootzero&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrrootzero&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ### ✍️
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
