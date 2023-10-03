@@ -14,10 +14,8 @@
 
 <!-- Animated Image -->
 <div align="center">
-<p><img src="(https://github.com/MrRootZero/MrRootZero/assets/106310630/b0306316-909b-4f48-8dd1-82856c8c8030)" align="right" width="400" height="250" /></p>
+<p><img src="https://github.com/MrRootZero/MrRootZero/assets/106310630/b0306316-909b-4f48-8dd1-82856c8c8030" align="right" width="400" height="250" /></p>
   </div>
-
-
 
 
 <!-- Start of About Me Section -->
@@ -25,9 +23,9 @@
 
 📚 Currently studying a BSc in IT with a focus on Computational Science and Informatics.
 
-🤝 I'm enthusiastic about joining projects that explore new technologies and involve building exciting applications that can benefit us all.
+🤝 Enthusiastic about joining projects that explore new technologies and involve building exciting applications.
 
-🌱 I’m currently learning JSP + Restful WS + Spring as well as the ever expanding field of Software Engineering 😋
+🌱 Currently learning JSP + Restful WS + Spring 😋
 
 ⚡ Fun fact: I'm passionate about fitness and you can often find me hitting the gym, working on strength and staying healthy! 💪😄🏋️ Feel free to send me a message, and we can chat and connect about our shared interests in technology, coding, or fitness! 😄👋
 
