@@ -12,6 +12,13 @@
   Barbells
 </h3>
 
+<!-- Animated Image -->
+<div align="center">
+<p><img src="(https://github.com/MrRootZero/MrRootZero/assets/106310630/b0306316-909b-4f48-8dd1-82856c8c8030)" align="right" width="400" height="250" /></p>
+  </div>
+
+
+
 
 <!-- Start of About Me Section -->
 # 💫About Me :
