@@ -27,7 +27,7 @@
 
 🌱 Currently learning JSP + Restful WS + Spring 😋
 
-⚡ Fun fact: I'm passionate about fitness and bodybuilding 💪😄🏋️ Feel free to send me a message, and we can chat and connect about our shared interests in technology, coding, or fitness! 😄👋
+⚡ Fun fact: I'm passionate about fitness and bodybuilding 💪😄🏋️ Feel free to send me a message, we can chat and connect about our shared interests in coding, anime, or fitness! 😄👋
 
 
 <br/>
