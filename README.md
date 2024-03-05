@@ -65,7 +65,7 @@
 
 <h3 align="center">Tech Stack:</h3>
 <p align="center">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
       alt="cplusplus"
@@ -73,7 +73,7 @@
       height="40"
     />
   </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+  <a href="https://www.w3schools.com/cs/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
       alt="csharp"
@@ -81,7 +81,7 @@
       height="40"
     />
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+  <a href="https://www.w3schools.com/css/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
       alt="css3"
@@ -89,7 +89,7 @@
       height="40"
     />
   </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+  <a href="https://www.w3.org/html/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
       alt="html5"
@@ -97,7 +97,16 @@
       height="40"
     />
   </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank">
+      <img 
+      src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
+      title="JavaScript" 
+        alt="JavaScript" 
+        height="40" 
+        width="40" 
+        />
+    </a>
+  <a href="https://www.java.com" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
       alt="java"
@@ -106,7 +115,7 @@
     />
   </a>
   </a> 
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+ <a href="https://www.mysql.com/" target="_blank"> 
   <img 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" 
     alt="mysql" 
@@ -114,7 +123,7 @@
     height="40"
   /> 
 </a>
-<a href="https://nodejs.org" target="blank" rel="noreferrer">
+<a href="https://nodejs.org" target="blank">
   <img 
       src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"
       title="Node.js" 
@@ -123,6 +132,7 @@
       width="40"
     />
 </a>
+
 </p>
 
 <!-- Github Statistics -->
