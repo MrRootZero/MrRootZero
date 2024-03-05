@@ -25,7 +25,7 @@
 
 🤝 Enthusiastic about joining projects that explore new technologies and involve building exciting applications.
 
-🌱 Currently learning JSP + Restful WS + Spring 😋
+🌱 Currently learning Angular and .NET Core Web API 😋
 
 ⚡ Fun fact: I'm passionate about fitness and bodybuilding 💪😄🏋️ Feel free to reach out, we can chat about our shared interests in coding, anime, or fitness! 😄👋
 
