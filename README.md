@@ -114,6 +114,15 @@
     height="40"
   /> 
 </a>
+<a href="https://nodejs.org" target="blank">
+  <img 
+      src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"
+      title="Node.js" 
+      alt="Node.js" 
+      height="40" 
+      width="40"
+    />
+</a>
 </p>
 
 <!-- Github Statistics -->
