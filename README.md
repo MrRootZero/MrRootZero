@@ -114,9 +114,9 @@
     height="40"
   /> 
 </a>
-<a href="https://nodejs.org" target="blank">
+<a href="https://nodejs.org" target="blank" rel="noreferrer">
   <img 
-      src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"
+      src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"
       title="Node.js" 
       alt="Node.js" 
       height="40" 
