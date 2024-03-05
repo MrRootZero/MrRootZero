@@ -23,7 +23,7 @@
 
 📚 Final Year Student studying BSc in IT with a focus on Computational Science and Informatics.
 
-🤝 Enthusiastic about joining projects that explore new technologies and involve building exciting applications.
+🤝 Enthusiastic about joining projects that explore new technologies and involve building innovative applications.
 
 🌱 Currently learning Angular and .NET Core Web API 😋
 
