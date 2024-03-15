@@ -33,7 +33,7 @@
 <br/>
 <!-- End of About Me Section -->
 
-<h3 align="center">Connect with me:</h3>
+<h2 align="center">Connect with me:</h2>
 <p align="center">
   <a
     href="https://linkedin.com/in/https://www.linkedin.com/in/shabbir-khan-27985720a/"
@@ -63,7 +63,7 @@
   /></a>
 </p>
 
-<h3 align="center">Tech Stack:</h3>
+<h2 align="center">Tech Stack:</h2>
 <p align="center">
   <a href="https://www.w3schools.com/cpp/" target="_blank">
     <img
