@@ -21,11 +21,11 @@
 <!-- Start of About Me Section -->
 # 💫About Me :
 
-📚 _Final Year Student_ studying BSc in IT with a focus on Computational Science and Informatics.
+📚 BSc Graduate in IT with a focus on Computational Science and Informatics.
 
 🤝 Enthusiastic about joining projects that explore new technologies and involve building innovative applications.
 
-🌱 Currently learning Angular and .NET Core Web API 😋
+🌱 Currently diving into AI/ML and Data Analytics environments. 😋
 
 ⚡ Fun fact: I'm passionate about fitness and bodybuilding 💪😄🏋️ Feel free to reach out, we can chat about our shared interests in coding, anime, or fitness! 😄👋
 
