@@ -23,11 +23,11 @@
 
 📚 BSc Graduate in IT with a focus on Computational Science and Informatics.
 
-🤝 Enthusiastic about joining projects that explore new technologies and involve building innovative applications.
+🤝 Enthusiastic about joining projects that rewire my neural network and forces me to push past my boundaries.
 
 🌱 Currently diving into AI/ML and Data Analytics environments. 😋
 
-⚡ Fun fact: I'm passionate about fitness and bodybuilding 💪😄🏋️ Feel free to reach out, we can chat about our shared interests in coding, anime, or fitness! 😄👋
+⚡ Passionate about Anime and Bodybuilding 💪😄🏋️ Feel free to reach out, we can chat about our shared interests! 😄👋
 
 
 <br/>
