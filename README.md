@@ -15,132 +15,72 @@
 <!-- Animated Image -->
 <div align="center">
 <p><img src="https://github.com/MrRootZero/MrRootZero/assets/106310630/b0306316-909b-4f48-8dd1-82856c8c8030" align="right" width="400" height="250" /></p>
-  </div>
-
+</div>
 
 <!-- Start of About Me Section -->
-# 💫About Me :
+# 💫 About Me :
 
 📚 BSc Graduate in IT with a focus on Computational Science and Informatics.
 
-🤝 Enthusiastic about joining projects that rewire my neural network and forces me to push past my boundaries.
+🤝 Enthusiastic about joining projects that rewire my neural network and force me to push past my boundaries.
 
 🌱 Currently diving into AI/ML and Data Analytics environments. 😋
 
 ⚡ Passionate about Anime and Bodybuilding 💪😄🏋️ Feel free to reach out, we can chat about our shared interests! 😄👋
-
 
 <br/>
 <!-- End of About Me Section -->
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
-  <a
-    href="https://linkedin.com/in/https://www.linkedin.com/in/shabbir-khan-27985720a/"
-    target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="https://www.linkedin.com/in/shabbir-khan-27985720a/"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://www.leetcode.com/shabz028" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-      alt="shabz028"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://twitter.com/https://twitter.com/shabzo_28" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="https://twitter.com/shabzo_28"
-      height="30"
-      width="40"
-  /></a>
+  <a href="https://www.linkedin.com/in/shabbir-khan-27985720a/" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/shabz028" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/shabzo_28" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
 </p>
 
-<h2 align="center">Tech Stack:</h2>
+<h2 align="center">🛠 Tech Stack:</h2>
 <p align="center">
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-      alt="csharp"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank">
-      <img 
-      src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
-      title="JavaScript" 
-        alt="JavaScript" 
-        height="40" 
-        width="40" 
-        />
-    </a>
-  <a href="https://www.java.com" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-      alt="java"
-      width="40"
-      height="40"
-    />
-  </a>
-  </a> 
- <a href="https://www.mysql.com/" target="_blank"> 
-  <img 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" 
-    alt="mysql" 
-    width="40" 
-    height="40"
-  /> 
-</a>
-<a href="https://nodejs.org" target="blank">
-  <img 
-      src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"
-      title="Node.js" 
-      alt="Node.js" 
-      height="40" 
-      width="40"
-    />
-</a>
+
+  <!-- Languages -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/dart.png" alt="Dart" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+
+  <!-- Frontend & Backend -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/angular.png" alt="Angular" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flutter.png" alt="Flutter" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" alt="Spring Boot" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/maven.png" alt="Maven" width="40" height="40" />
+
+  <!-- Databases -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" width="40" height="40" />
+
+  <!-- Tools -->
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" alt="REST API" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" width="40" height="40" />
 
 </p>
 
 <!-- Github Statistics -->
-# 📊GitHub Stats :
+# 📊 GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=mrrootzero&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mrrootzero&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrrootzero&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-### ✍️
+### ✍️ Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
