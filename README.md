@@ -12,6 +12,15 @@
   Building practical software solutions with clean code, strong logic, and real business value.
 </h3>
 
+<div align="center">
+  <img
+    src="https://github.com/MrRootZero/MrRootZero/assets/106310630/b0306316-909b-4f48-8dd1-82856c8c8030"
+    width="360"
+    height="220"
+    alt="Coding Animation"
+  />
+</div>
+
 <br />
 
 <div align="center">
@@ -26,8 +35,6 @@
   </a>
 </div>
 
-<br />
-
 ---
 
 ## 💫 About Me
@@ -36,12 +43,7 @@ I am a **BSc IT Graduate** and **Junior Full-Stack Developer** with experience b
 
 I enjoy creating practical systems that solve real business problems, with a strong focus on clean UI, structured backend logic, secure access control, and data-driven functionality.
 
-Currently focused on:
-
-- Full-stack development with **Angular, Node.js, Express, and MySQL**
-- SQL, QA testing, and technical testing
-- Salesforce development, automation, and Agentforce
-- AI, cybersecurity, and data analytics fundamentals
+Currently focused on **Angular, Node.js, Express, MySQL, SQL, QA testing, Salesforce, Agentforce, AI, cybersecurity, and data analytics**.
 
 Outside of tech, I am passionate about **anime, gym, discipline, and continuous self-improvement**.
 
@@ -51,62 +53,26 @@ Outside of tech, I am passionate about **anime, gym, discipline, and continuous 
 
 ### POSOnline Business Portal Redesign
 
-A modern business portal redesign for a retail/cash-and-carry environment, built with:
+A modern business portal redesign for a retail/cash-and-carry environment.
 
-- **Angular** frontend
-- **Node.js / Express** backend
-- **MySQL** database
-- JWT authentication
-- Role-based permissions
-- Branch-based access control
-- Dashboard, Stock, Debtors, Till Status, Daily Summary, and User Management modules
+**Built with:** Angular, Node.js, Express, MySQL, JWT authentication, role-based permissions, and branch-based access control.
+
+**Modules:** Dashboard, Stock, Debtors, Till Status, Prior Till Status, Daily Summary, Change Password, and User Management.
 
 ### Salesforce & Agentforce Projects
 
-Experience building Salesforce solutions involving:
-
-- Experience Cloud portals
-- Lightning Web Components
-- Flows and automation
-- Agentforce concepts
-- Business-focused CRM use cases
+Experience building Salesforce solutions involving **Experience Cloud portals, Lightning Web Components, Flows, automation, Agentforce concepts, and business-focused CRM use cases**.
 
 ### SQL & QA Testing
 
-Practical experience with:
-
-- SQL queries
-- Data validation
-- Reconciliation testing
-- Technical tester preparation
-- Database-driven test scenarios
+Practical experience with **SQL queries, data validation, reconciliation testing, technical testing, and database-driven test scenarios**.
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,cs,cpp,python,js,ts,dart" />
-</p>
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,angular,bootstrap,flutter" />
-</p>
-
-### Backend & Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mysql,postgres,mongodb" />
-</p>
-
-### Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cs,cpp,python,js,ts,dart,html,css,angular,bootstrap,flutter,nodejs,express,spring,mysql,postgres,mongodb,git,github,docker,vscode,postman" />
 </p>
 
 ---
@@ -116,13 +82,13 @@ Practical experience with:
 <div align="center">
 
   <img
-    height="170"
+    height="165"
     src="https://github-readme-stats.vercel.app/api?username=MrRootZero&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400"
     alt="GitHub Stats"
   />
 
   <img
-    height="170"
+    height="165"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrRootZero&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"
     alt="Top Languages"
   />
