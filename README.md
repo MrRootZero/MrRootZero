@@ -57,7 +57,7 @@ A modern business portal redesign for a retail/cash-and-carry environment.
 
 **Built with:** Angular, Node.js, Express, MySQL, JWT authentication, role-based permissions, and branch-based access control.
 
-**Modules:** Dashboard, Stock, Debtors, Till Status, Prior Till Status, Daily Summary, Change Password, and User Management.
+**Modules:** Dashboard, Stock, Debtors, Till Status, Prior Till Status, Daily Summary, Change Password, Product Details, and User Management.
 
 ### Salesforce & Agentforce Projects
 
@@ -81,17 +81,37 @@ Practical experience with **SQL queries, data validation, reconciliation testing
 
 <div align="center">
 
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=MrRootZero&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400"
-    alt="GitHub Stats"
-  />
+  <picture>
+    <source
+      srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MrRootZero&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MrRootZero&show_icons=true&theme=default&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"
+      media="(prefers-color-scheme: light)"
+    />
+    <img
+      height="165"
+      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MrRootZero&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"
+      alt="GitHub Stats"
+    />
+  </picture>
 
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrRootZero&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"
-    alt="Top Languages"
-  />
+  <picture>
+    <source
+      srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MrRootZero&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=Jupyter%20Notebook"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MrRootZero&layout=compact&theme=default&hide_border=true&langs_count=8&hide=Jupyter%20Notebook"
+      media="(prefers-color-scheme: light)"
+    />
+    <img
+      height="165"
+      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MrRootZero&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=Jupyter%20Notebook"
+      alt="Most Used Languages"
+    />
+  </picture>
 
 </div>
 
